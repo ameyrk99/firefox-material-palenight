@@ -1,0 +1,36 @@
+{
+    "name": "Material Palenight",
+    "manifest_version": 2,
+    "version": "3.0",
+    "theme": {
+        "images": {
+            "theme_frame": "firefox.png"
+        },
+        "colors": {
+            "icons_attention": "#89ddff",
+            "ntp_background": "#292d3e",
+            "ntp_text": "#eceff1",
+            "popup": "#292d3e",
+            "popup_border": "#292d3e",
+            "popup_highlight": "#546e7a",
+            "popup_text": "#eceff1",
+            "sidebar": "#292d3e",
+            "sidebar_border": "#292d3e",
+            "sidebar_highlight": "#546e7a",
+            "sidebar_text": "#eceff1",
+            "tab_background_separator": "#292d3e",
+            "tab_line": "#292d3e",
+            "tab_loading": "#89ddff",
+            "tab_text": "#89ddff",
+            "toolbar": "#292d3e",
+            "toolbar_field": "#292d3e",
+            "toolbar_field_border_focus": "#89ddff",
+            "toolbar_field_separator": "#292d3e",
+            "toolbar_field_text": "#eceff1",
+            "toolbar_vertical_separator": "#292d3e",
+            "frame": "#292d3e",
+            "tab_background_text": "#eceff1",
+            "bookmark_text": "#eceff1"
+        }
+    }
+}
